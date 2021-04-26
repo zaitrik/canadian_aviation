@@ -17,6 +17,17 @@ AtsTypeID_DisplayEng, AtsServiceID_DisplayEng, AtsUnitName, TrafficAdvisoryTypeI
 EvasiveActionByPilotEnum_DisplayEng, OtherAircraftSightedEnum_DisplayEng, AtsUnitInvolvedEnum_DisplayEng,
 
 ****
- 
+injuries:
+OccNo, InjuryCategoryID_DisplayEng, FatalCount, SeriousCount, MinorCount, NoneCount, Unknown_MissingCount
+
+****
+events_phases:
+OccNo, EventID_DisplayEng, FullEventDescEng, PhaseID_DisplayEng, FullPhaseDescEng
+
+****
+survivability:
+OccNo, SurvivableEnum_DisplayEng, AircraftEvacTime, EvacEgressIssueEnum_DisplayEng, UlbID_DisplayEng, FlightFollowingSystemID_DisplayEng, ELTInstalledEnum_DisplayEng, ELTSignalReceivedEnum_DisplayEng, 
+ELTStatusID_DisplayEng, SurvEquiID_DisplayEng, EquipEffReasonID_DisplayEng, EquipEffectiveEnum_DisplayEng,
+EquipInfluenceEnum_DisplayEng, EvacHamperedID_DisplayEng, 
 
 
