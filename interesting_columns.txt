@@ -1,0 +1,22 @@
+occurence:
+OccNo, AirportID_CountryID_DisplayEng, AirportID_ProvinceID_DisplayEng, Location, Latitude, Longitude, ICAO,CountryID_DisplayEng,
+ICAO_DisplayEng, OccDate, OccIncidentTypeID_DisplayEng, OccRegionID_DisplayEng, OccTime, OccTypeID_DisplayEng,ReportedByID_DisplayEng,
+SeriousIncidentEnum_DisplayEng, TimeZoneID_DisplayEng, TotalFatalCount,TotalMinorCount,TotalNoneCount,TotalSeriousCount,
+TotalUnknownCount, InjuriesEnum_DisplayEng, LightCondID_DisplayEng,SkyCondID_DisplayEng, InflightIcingCondEnum_DisplayEng,
+GeneralWeatherID_DisplayEng, Temperature, VisibilyCeiling, Visibility, WeatherPhenomenaTypeID_DisplayEng, TakeOffLandingTypeID_DisplayEng,
+RunwaySurfaceID_DisplayEng, SurfaceContaminationID_DisplayEng
+
+****
+aircraft:
+OccNo, RegistrationNo, AircraftTypeID_DisplayEng, AircraftModelID_DisplayEng, AircraftMakeID_DisplayEng,
+RegCountryID_DisplayEng, OrganizationID_DisplayEng, OperatorTypeID_DisplayEng, LandingGearID_DisplayEng,
+WakeTurbulenceCategoryID_DisplayEng, YearOfManuf, NumberOfEngine, AmateurBuildIND, DamageLevelID_DisplayEng,
+WeightWithinLimitsEnum_DisplayEng, DestAirportID_AirportName, DepartAirportID_AirportName, FlightPlanTypeID_DisplayEng,
+OperationTypeID_DisplayEng, FlightNo, DangerousGoodEnum_DisplayEng, ICAODepart, ICAODestination, FlightPhaseID_DisplayEng,
+AtsTypeID_DisplayEng, AtsServiceID_DisplayEng, AtsUnitName, TrafficAdvisoryTypeID_DisplayEng, EvasiveActionByATSEnum_DisplayEng,
+EvasiveActionByPilotEnum_DisplayEng, OtherAircraftSightedEnum_DisplayEng, AtsUnitInvolvedEnum_DisplayEng,
+
+****
+ 
+
+
